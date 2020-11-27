@@ -1,0 +1,6 @@
+{
+  "invokerPackage": "MehrIt\\OttoQuantitiesApiClient",
+  "packagePath": ".",
+  "composerVendorName": "mehr-it",
+  "composerProjectName": "otto-quantities-api-client"
+}
